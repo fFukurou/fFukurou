@@ -33,3 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffukurou&show_icons=true&theme=shadow_red&locale=en&hide=jupyter%20notebook,html,css,scss&langs_count=10&rank_icon=github" alt="ffukurou" /></p>
 
+![Ghost of Tsushima 1 - Copy](https://github.com/user-attachments/assets/7004ae28-dea1-4934-bd08-9428b8d2964a)
+
+
