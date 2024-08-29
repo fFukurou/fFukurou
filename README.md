@@ -1,4 +1,4 @@
-<h1 align="center">Ore no nawa fFukurou</h1>
+<h1 align="center">Ore no nawa fFukurou <br/> フクロウ </h1>
 <h3 align="center">["Programmer", "Gaming Enthusiast", "Video Editor", "Huge Nerd", "Creator"]</h3>
 
 ![Sekiro](https://github.com/user-attachments/assets/e5ea36f0-9df5-4f5a-9f88-ca2fb7a2c14b)
