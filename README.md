@@ -1,7 +1,5 @@
 <h1 align="center">Ore no nawa fFukurou</h1>
 <h3 align="center">["Programmer", "Gaming Enthusiast", "Video Editor", "Huge Nerd", "Creator"]</h3>
-![Ghost of Tsushima 1](https://github.com/user-attachments/assets/e74a1183-6cfe-490e-85d0-eeb1aa21eae7)
-![Ghost of Tsushima 2](https://github.com/user-attachments/assets/6be9a348-4130-4975-99ce-221a19c8ee56)
 
 ![Sekiro](https://github.com/user-attachments/assets/e5ea36f0-9df5-4f5a-9f88-ca2fb7a2c14b)
 
