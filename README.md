@@ -1,4 +1,3 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/615af914e76082704c010cbc/55f72f44-82bf-458c-abd2-0f4246dba8d5/Samurai_Embers_In_Front_Of_Gate_66.gif)]
 <h1 align="center">Ore no nawa fFukurou</h1>
 <h3 align="center">["Programmer", "Gaming Enthusiast", "Video Editor", "Huge Nerd", "Creator"]</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/IaW2zsu.gif">
