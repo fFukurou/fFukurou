@@ -19,6 +19,8 @@
 
 - Quote 📜 **"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I'm changing myself."**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vicenzo-massao-de-oliveira-2a8b35109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicenzo massao de oliveira" height="30" width="40" /></a>
