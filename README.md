@@ -26,6 +26,7 @@
 <a href="https://www.linkedin.com/in/vicenzo-massao-de-oliveira-2a8b35109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicenzo massao de oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/ffukurou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffukurou_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@FukurouYGR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fukurou" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fukuroug5904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fukurou" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/Fukuroou/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/8932ec90-3198-4e32-ba09-e527065fdb72" alt="steam logo" height="40" width="40" /></a>
 </p>
 
