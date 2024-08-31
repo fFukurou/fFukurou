@@ -21,8 +21,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/vicenzo-massao-de-oliveira-2a8b35109/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicenzo massao de oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/ffukurou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ffukurou_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@FukurouYGR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fukurou" height="30" width="40" /></a>
@@ -30,7 +30,9 @@
 <a href="https://steamcommunity.com/id/Fukuroou/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/8932ec90-3198-4e32-ba09-e527065fdb72" alt="steam logo" height="40" width="40" /></a>
 </p>
 
-![Geto Suguru 10](https://github.com/user-attachments/assets/75f05c74-7d9e-4444-8b9e-e75d3d04a837)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75f05c74-7d9e-4444-8b9e-e75d3d04a837" alt="animated" />
+</p>
 
 <h3 align="center"> Languages <h3/>
 <p align="center">
