@@ -13,7 +13,7 @@
 
 - Currently learning **Data Science & Machine Learning, C#, C, C++, DSA, JavaScript, Arduino, Reverse Engineering, React**
 
-- Looking to forward to collaborate on **games, videos, apps, etc...**
+- Looking forward to collaborate on **games, videos, apps, etc...**
 
 - 📫 How to reach me **supevi1@gmail.com, Discord: _fukurou**
 
