@@ -48,8 +48,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffukurou&show_icons=true&theme=shadow_red&locale=en&hide=jupyter%20notebook,html,css,scss&langs_count=10&layout=donut-vertical" alt="ffukurou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffukurou&show_icons=true&theme=transparent&locale=en&hide=jupyter%20notebook,html,css,scss&langs_count=10&layout=donut-vertical" alt="ffukurou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffukurou&show_icons=true&theme=shadow_red&locale=en&hide=jupyter%20notebook,html,css,scss&langs_count=10&rank_icon=github" alt="ffukurou" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ffukurou&show_icons=true&theme=transparent&locale=en&hide=jupyter%20notebook,html,css,scss&langs_count=10&rank_icon=github" alt="ffukurou" /></p>
 
 ![Eighty Six 1](https://github.com/user-attachments/assets/fd9eb5f0-33b3-4ee2-a33a-813143235f75)
