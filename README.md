@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ffukurou" alt="ffukurou" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ffukurou&theme=juicyfresh&margin-w=5&no-frame=true&no-bg=true" alt="ffukurou" /></a> </p>
 
 - Currently working on **improving my programming skills.**
 
