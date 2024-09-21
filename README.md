@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **supevi1@gmail.com, Discord: _fukurou**
 
-- Quote 📜 **"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I'm changing myself."**
+<h2 align="center"> - Quote 📜 "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I'm changing myself." </h2>
+
 
 
 
