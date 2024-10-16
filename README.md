@@ -35,14 +35,14 @@
   <img src="https://github.com/user-attachments/assets/75f05c74-7d9e-4444-8b9e-e75d3d04a837" alt="animated" />
 </p>
 
-<h3 align="center"> -- Languages -- <h3/>
+<h3 align="center"> -.- Languages -.- <h3/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,java,js,ts" />
   </a>
 </p>
 
-<h3 align="center"> -- Techs -- <h3/>
+<h3 align="center"> -.- Techs -.- <h3/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,pr,ae,unity,anaconda,sklearn,tensorflow,fastapi,flask,selenium,nodejs,react,vite,git,idea,dotnet,arduino,discord&perline=9" />
