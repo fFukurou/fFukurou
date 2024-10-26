@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ffukurou&theme=juicyfresh&margin-w=5&no-frame=true&no-bg=true&column=5" alt="ffukurou" /></a> </p>
 
-- Currently working on **improving my programming skills.**
+- Currently working on **Improving my programming skills.**
 
 - Currently learning **Data Science & Machine Learning, C#, C, C++, DSA, JavaScript, Arduino, Reverse Engineering, React**
 
