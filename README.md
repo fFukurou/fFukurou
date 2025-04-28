@@ -23,7 +23,8 @@
 <a href="https://www.youtube.com/@fukuroug5904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fukurou" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/id/Fukuroou/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/8932ec90-3198-4e32-ba09-e527065fdb72" alt="steam logo" height="40" width="40" /></a>
 </p>
-  <p align="center">📫 How to reach me **supevi1@gmail.com, Discord: _fukurou**</p>
+  <h4 align="center">📫 Email: supevi1@gmail.com</h4>
+  <h4 align="center"> Discord: _fukurou</h4>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75f05c74-7d9e-4444-8b9e-e75d3d04a837" alt="animated" />
